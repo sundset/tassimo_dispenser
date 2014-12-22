@@ -1,4 +1,4 @@
 tassimo_dispenser
 =================
 
-A Tassimo dispenser 
+This is a dispenser for the Bosh Tassimo discs 
